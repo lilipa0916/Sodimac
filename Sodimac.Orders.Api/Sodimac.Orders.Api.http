@@ -1,0 +1,6 @@
+@Sodimac.Orders.Api_HostAddress = http://localhost:5138
+
+GET {{Sodimac.Orders.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
